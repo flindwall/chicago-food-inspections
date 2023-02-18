@@ -16,3 +16,7 @@ html {
   float: left;
   margin-right: 5px;
 }
+
+.leaflet-control-container {
+  overflow: visible !important;
+}

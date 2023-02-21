@@ -1,20 +1,3 @@
-
-//create function to calculate circle color based on depth of earthquake 
-function circleColor(feature){
-  score = feature.properties.results
-  
-  if(score === "Pass"){
-      color = "green"
-  }
-  else {
-    color = "red"
-  }
-  return color
-  };
-      
-  
-
-
 // Define streetmap and darkmap layers
 let streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',

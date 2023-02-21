@@ -1,3 +1,20 @@
+
+//create function to calculate circle color based on depth of earthquake 
+function circleColor(feature){
+  score = feature.properties.results
+  
+  if(score === "Pass"){
+      color = "green"
+  }
+  else {
+    color = "red"
+  }
+  return color
+  };
+      
+  
+
+
 // Define streetmap and darkmap layers
 let streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -13,8 +30,8 @@ let baseMaps = {
 
 // Create our map, giving it the streetmap and others layers to display on load
 let myMap = L.map("map", {
-  center: [ 41.90, -87.73 ],
-  zoom: 11,
+  center: [ 41.90, -87.6237 ],
+  zoom: 12,
   layers: [] // no layers added initially
 });
 
@@ -72,12 +89,32 @@ d3.json(url).then(function(data) {
       }  
       
       if (layer) {
-        let marker = L.marker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]]);
+        let iconUrl, markerColor;
+        if (feature.properties.results === "Pass") {
+          iconUrl = 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png';
+          markerColor = 'green';
+        } else {
+          iconUrl = 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png';
+          markerColor = 'red';
+        }
+      
+        let marker = L.marker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], {
+          icon: L.icon({
+            iconUrl: iconUrl,
+            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+          })
+        });
+      
         marker.bindPopup("<h3>" + feature.properties.aka_name + "</h3><hr><p>Address: " + feature.properties.address + "</p><p>Risk Score: " + feature.properties.risk + "</p><p>" + feature.properties.results + "</p>");
         layer.addLayer(marker);
       }
+      
+      
+      
     }
   });
-});
-
-
+})

@@ -18,9 +18,17 @@ warnings.filterwarnings('ignore')
 
 - Import data set through downloaded CSV from [Chicago Data Portal](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5)
 
-- 
+- Clean data set to drop columns not relevant to analysis
 
-- Using Leaflet, create a map that plots restaurants inspected in the year 2022 in the city of Chicago, based on their longitude and latitude
+- Convert Inspection Date to datetime object
+
+- Rename values in Inspection Date columns
+
+- Streamline misspellings for Chicago and drop NaN values
+
+- Analyze data for trends or correlations between risk types and results
+
+- Use Leaflet to create a map that plots restaurants inspected in the year 2022 in the city of Chicago, based on their longitude and latitude
     - Data markers reflect the name, address, risk score and results.
     
 ![App Screenshot](insert photo of our map)

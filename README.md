@@ -61,16 +61,16 @@ Note about 7/1/2018 change to food inspection procedures that affects the data i
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk3Passes.png)
 
 # Results
-**XXX**
+**XXX**  <br />
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083513.png)
 
-**Total Number of Pass, Fail, Pass w/Conditions**
+**Total Number of Pass, Fail, Pass w/Conditions** <br />
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083521.png)
 
- **XXXXXXXX**
+ **XXXXXXXX** <br />
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083529.png)
 
-**Chi-Square Test Results**
+**Chi-Square Test Results** <br />
 The lower the Cramer's V number, the lower the connection..........
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083536.png)
 

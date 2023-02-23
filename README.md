@@ -33,13 +33,12 @@ warnings.filterwarnings('ignore')
 
 - Use Leaflet to create a map that plots restaurants inspected in the year 2022 in the city of Chicago, based on their longitude and latitude
     - Data markers reflect the name, address, risk score and results.
-   
+    
+![App Screenshot](insert photo of our map)
 
 - Create a legend
 
 - Deploy app to a free static page
-
-![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screen%20Shot%202023-02-22%20at%207.29.38%20PM.png)
 # Results
 
 **Results by Inspection** <br />
@@ -50,23 +49,36 @@ Results: An inspection can pass, pass with conditions or fail. Establishments re
 
 **Counts of Risk Type** <br />
 Risk category of facility: Each establishment is categorized as to its risk of adversely affecting the public’s health, with 1 being the highest and 3 the lowest. The frequency of inspection is tied to this risk, with risk 1 establishments inspected most frequently and risk 3 least frequently.
-
-
-![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk1Passes.png) 
-![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk2Passes.png) 
-![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk3Passes.png)
-
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/CountofRiskType.png)
 
 **Results by Inspection by Year** <br />
 Note about 7/1/2018 change to food inspection procedures that affects the data in this dataset: [Click Here to Learn More](http://bit.ly/2yWd2JB)
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/ResultsByYear.png)
 
+**Percentage of Total Pass/Fail by Risk Type**
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk1Passes.png) 
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk2Passes.png) 
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk3Passes.png)
+
 # Results
+**XXX**
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083513.png)
+
+**Total Number of Pass, Fail, Pass w/Conditions**
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083521.png)
+
+ **XXXXXXXX**
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083529.png)
+
+**Chi-Square Test Results**
+The lower the Cramer's V number, the lower the connection..........
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083536.png)
+
 ## Demo (need to update with our map)
 
 [Click Here](http://127.0.0.1:5501/chicago-food-inspections/index.html) 
 
+![App Screenshot](https://raw.githubusercontent.com/gnimeth/Earthquake_data/main/Output/Screenshot_20230212_063133.png)
 
 ## Resources
 - City of Chicago. (2023). Food Inspections. data.cityofchicago.org. https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5

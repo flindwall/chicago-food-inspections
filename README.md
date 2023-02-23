@@ -37,16 +37,26 @@ warnings.filterwarnings('ignore')
 
 - Deploy app to a free static page
 
-**Results by Inspection by Year**
+**Results by Inspection**
+Results: An inspection can pass, pass with conditions or fail. Establishments receiving a  ‘pass’ were found to have no critical or serious violations (violation number 1-14 and 15-29, respectively). Establishments receiving a ‘pass with conditions’ were found to have critical or serious violations, but these were corrected during the inspection. Establishments receiving a ‘fail’ were found to have critical or serious violations that were not correctable during the inspection. An establishment receiving a ‘fail’ does not necessarily mean the establishment’s licensed is suspended. Establishments found to
+ be out of business or not located are indicated as such. 
+
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/resultsofinspection.png)
+
+**Counts of Risk Type**
+Risk category of facility: Each establishment is categorized as to its risk of adversely affecting the public’s health, with 1 being the highest and 3 the lowest. The frequency of inspection is tied to this risk, with risk 1 establishments inspected most frequently and risk 3 least frequently.
+Risk Level 1
+Risk Level 2
+Risk Level 3
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk1Passes.png)
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk2Passes.png)
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk3Passes.png)
 
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/CountofRiskType.png)
 
 **Results by Inspection by Year**
+Note about 7/1/2018 change to food inspection procedures that affects the data in this dataset: [Click Here to Learn More](http://bit.ly/2yWd2JB)
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/ResultsByYear.png)
-![My_Image](
-![My_Image](
-![My_Image](
 
 
 ## Demo (need to update with our map)

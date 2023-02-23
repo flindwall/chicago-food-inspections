@@ -37,6 +37,7 @@ warnings.filterwarnings('ignore')
 
 - Deploy app to a free static page
 
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/CountofRiskType.png)
 
 
 

@@ -55,7 +55,7 @@ Risk category of facility: Each establishment is categorized as to its risk of a
 Note about 7/1/2018 change to food inspection procedures that affects the data in this dataset: [Click Here to Learn More](http://bit.ly/2yWd2JB)
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/ResultsByYear.png)
 
-**Percentage of Total Pass/Fail by Risk Type**
+**Percentage of Total Pass/Fail by Risk Type** <br />
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk1Passes.png) 
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk2Passes.png) 
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk3Passes.png)
@@ -71,7 +71,7 @@ Note about 7/1/2018 change to food inspection procedures that affects the data i
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083529.png)
 
 **Chi-Square Test Results** <br />
-The lower the Cramer's V number, the lower the connection..........
+The lower the Cramer's V number, the lower the connection..........<br />
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083536.png)
 
 ## Demo (need to update with our map)

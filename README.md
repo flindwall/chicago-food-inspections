@@ -39,7 +39,6 @@ warnings.filterwarnings('ignore')
 - Create a legend
 
 - Deploy app to a free static page
-# Results
 
 # Results by Inspection <br />
 Results: An inspection can pass, pass with conditions or fail. Establishments receiving a  ‘pass’ were found to have no critical or serious violations (violation number 1-14 and 15-29, respectively). Establishments receiving a ‘pass with conditions’ were found to have critical or serious violations, but these were corrected during the inspection. Establishments receiving a ‘fail’ were found to have critical or serious violations that were not correctable during the inspection. An establishment receiving a ‘fail’ does not necessarily mean the establishment’s licensed is suspended. Establishments found to

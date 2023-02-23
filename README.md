@@ -1,8 +1,8 @@
 
 #  To eat or not to eat...
 
-- An analysis of the Chicago food inspections data set using Python and Leaflet
-Description: This information is derived from inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. Inspections are performed by staff from the Chicago Department of Public Health’s Food Protection Program. Inspections are done using a standardized procedure. The results of the inspection are inputted into a database, then reviewed and approved by a State of Illinois Licensed Environmental Health Practitioner (LEHP). A subset of data elements are extracted from this database and downloaded into this data portal.
+- An analysis of the Chicago food inspections data set using Python and Leaflet <br />
+**Data Description:** This information is derived from inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. Inspections are performed by staff from the Chicago Department of Public Health’s Food Protection Program. Inspections are done using a standardized procedure. The results of the inspection are inputted into a database, then reviewed and approved by a State of Illinois Licensed Environmental Health Practitioner (LEHP). A subset of data elements are extracted from this database and downloaded into this data portal.
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Food%20Image.jpg)
 
 
@@ -60,7 +60,7 @@ Risk category of facility: Each establishment is categorized as to its risk of a
 Note about 7/1/2018 change to food inspection procedures that affects the data in this dataset: [Click Here to Learn More](http://bit.ly/2yWd2JB)
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/ResultsByYear.png)
 
-
+# Results
 ## Demo (need to update with our map)
 
 [Click Here](http://127.0.0.1:5501/chicago-food-inspections/index.html) 

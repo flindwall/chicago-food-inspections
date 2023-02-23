@@ -34,7 +34,7 @@ warnings.filterwarnings('ignore')
 - Use Leaflet to create a map that plots restaurants inspected in the year 2022 in the city of Chicago, based on their longitude and latitude
     - Data markers reflect the name, address, risk score and results.
     
-![App Screenshot](insert photo of our map)
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/ResultsByYear.png)
 
 - Create a legend
 
@@ -66,7 +66,7 @@ Note about 7/1/2018 change to food inspection procedures that affects the data i
 
 [Click Here](http://127.0.0.1:5501/chicago-food-inspections/index.html) 
 
-![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screen%20Shot%202023-02-22%20at%207.29.38%20PM.png)
+
 ## Resources
 - City of Chicago. (2023). Food Inspections. data.cityofchicago.org. https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5
 

@@ -37,8 +37,16 @@ warnings.filterwarnings('ignore')
 
 - Deploy app to a free static page
 
+**Results by Inspection by Year**
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/resultsofinspection.png)
+
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/CountofRiskType.png)
 
+**Results by Inspection by Year**
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/ResultsByYear.png)
+![My_Image](
+![My_Image](
+![My_Image](
 
 
 ## Demo (need to update with our map)

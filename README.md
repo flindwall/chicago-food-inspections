@@ -56,7 +56,7 @@ Risk category of facility: Each establishment is categorized as to its risk of a
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Risk3Passes.png)
 
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/CountofRiskType.png)
-
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screen%20Shot%202023-02-22%20at%207.29.38%20PM.png)
 **Results by Inspection by Year** <br />
 Note about 7/1/2018 change to food inspection procedures that affects the data in this dataset: [Click Here to Learn More](http://bit.ly/2yWd2JB)
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/ResultsByYear.png)
@@ -66,8 +66,7 @@ Note about 7/1/2018 change to food inspection procedures that affects the data i
 
 [Click Here](http://127.0.0.1:5501/chicago-food-inspections/index.html) 
 
-![App Screenshot](https://raw.githubusercontent.com/gnimeth/Earthquake_data/main/Output/Screenshot_20230212_063133.png)
-
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screen%20Shot%202023-02-22%20at%207.29.38%20PM.png)
 ## Resources
 - City of Chicago. (2023). Food Inspections. data.cityofchicago.org. https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5
 

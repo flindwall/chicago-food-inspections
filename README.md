@@ -43,7 +43,7 @@ warnings.filterwarnings('ignore')
 
 ## Demo (need to update with our map)
 
-[Click Here](https://gnimeth.github.io/Earthquake_data/) 
+[Click Here](http://127.0.0.1:5501/chicago-food-inspections/index.html) 
 
 ![App Screenshot](https://raw.githubusercontent.com/gnimeth/Earthquake_data/main/Output/Screenshot_20230212_063133.png)
 

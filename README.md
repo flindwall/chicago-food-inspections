@@ -70,7 +70,8 @@ Chi-square formula is a statistical formula to compare two or more statistical d
 **Total Number of Pass, Fail, Pass w/Conditions** <br />
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083521.png)
 
- **XXXXXXXX** <br />
+ **Expected Value** <br />
+ The chi-square formula is: χ2 = ∑(Oi – Ei)2/Ei, where Oi = observed value (actual value) and Ei = expected value.<br />
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083529.png)
 
 **Chi-Square Test Results** <br />

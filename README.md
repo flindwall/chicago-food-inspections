@@ -74,7 +74,7 @@ Chi-square formula is a statistical formula to compare two or more statistical d
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083529.png)
 
 **Chi-Square Test Results** <br />
-The lower the Cramer's V number, the lower the connection..........<br />
+P > 0.05 is the probability that the null hypothesis is true. 1 minus the P value is the probability that the alternative hypothesis is true. A statistically significant test result (P ≤ 0.05) means that the test hypothesis is false or should be rejected. A P value greater than 0.05 means that no effect was observed. <br />
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083536.png)
 
 

@@ -64,7 +64,7 @@ Note about 7/1/2018 change to food inspection procedures that affects the data i
 
 # Results
 **Chi-Square Table**  <br />
-Chi-square formula is a statistical formula to compare two or more statistical data sets. It is used for data that consist of variables distributed across various categories and is denoted by χ2.
+Chi-square formula is a statistical formula to compare two or more statistical data sets. It is used for data that consist of variables distributed across various categories and is denoted by χ2. <br />
 ![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screenshot_20230222_083513.png)
 
 **Total Number of Pass, Fail, Pass w/Conditions** <br />

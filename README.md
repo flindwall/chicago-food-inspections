@@ -38,9 +38,9 @@ warnings.filterwarnings('ignore')
 
 - Deploy app to a free static page
 
-## Demo (need to update with our map)
+## Demo 
 
-[Click Here](http://127.0.0.1:5501/chicago-food-inspections/index.html) 
+[Click Here for Live Demo](http://127.0.0.1:5501/chicago-food-inspections/index.html) 
 ![My Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/Screen%20Shot%202023-02-22%20at%207.29.38%20PM.png)
 
 # Results by Inspection <br />

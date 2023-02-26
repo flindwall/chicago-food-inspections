@@ -51,7 +51,7 @@ Results: An inspection can pass, pass with conditions or fail. Establishments re
 
 # Counts of Risk Type* <br />
 Risk category of facility: Each establishment is categorized as to its risk of adversely affecting the public’s health, with 1 being the highest and 3 the lowest. The frequency of inspection is tied to this risk, with risk 1 establishments inspected most frequently and risk 3 least frequently.
-![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/CountofRiskType.png)
+![My_Image](https://github.com/flindwall/chicago-food-inspections/blob/main/Output/CountofRiskTypes.png)
 
 # Results by Inspection by Year <br />
 Note about 7/1/2018 change to food inspection procedures that affects the data in this dataset: [Click Here to Learn More](http://bit.ly/2yWd2JB)
